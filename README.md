@@ -1,4 +1,6 @@
 # Keylogger-Python-
-Simples com o uso da biblioteca  pynput  para  instalar abra o cmd e digite:
-pip install  pynput 
+{$} Apenas para fins de estudo
+{$} É sua responsabilidades o uso do script 
+É um script super simples em python de captura de caracteres 
+Utiliza a biblioteca pynput.
 
