@@ -1,8 +1,9 @@
-# Keylogger-Python-
+# Keylogger-Python
 
-{$} Apenas para fins de estudo
-{$} É sua responsabilidades o uso do script 
+{$} Script desenvolvido com intuito de estudo
+{$} Não me responsabilizo pelo uso doo script
 
-É um script super simples em python de captura de caracteres 
-Utiliza a biblioteca pynput.
+#Descrição
+Script python de captura de caracteres
+
 
